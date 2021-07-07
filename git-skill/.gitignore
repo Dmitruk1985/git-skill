@@ -1,0 +1,15 @@
+# Ignore Package Files
+*.jar
+
+# Ignore Log files except error.log
+*.log
+!error.log
+
+# Ignore everything inside target directory
+target/**
+
+# Ignore IDE specific files
+.idea/
+
+# Ignore files NewVisit0.feature, NewVisit1.feature, NewVisit2.feature
+NewVisit[0-2].feature
