@@ -1,1 +1,2 @@
 Wrong string new
+Add another string
